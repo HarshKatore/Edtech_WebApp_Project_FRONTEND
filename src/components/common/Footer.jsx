@@ -174,7 +174,7 @@ const Footer = () => {
             
             <div>
 
-              <div className="text-center mb-6">Copyright © 2024 StudyNotion</div>
+              <div className="text-center mb-6">Copyright © 2024 CoviLearn</div>
               <div className="text-center">𝐌𝐚𝐝𝐞 𝐖𝐢𝐭𝐡 𝐋𝐨𝐯𝐞 𝐁𝐲 𝐇𝐚𝐫𝐬𝐡 𝐊𝐚𝐭𝐨𝐫𝐞🌈™</div>
             </div>
         </div>
